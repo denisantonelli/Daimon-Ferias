@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Sistema de Férias Daimon",
   description: "Controle de férias interno",
